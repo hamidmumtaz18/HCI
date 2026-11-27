@@ -1,7 +1,4 @@
-# HCI Midterm – Question 1: Student Assignment Portal (Low-Fidelity Prototype)
 
-**Course:** HCI & Computer Graphics Lab (CSC382-L) – Iqra University, Islamabad Campus
-**Semester:** Fall 2026 | **Tool:** Figma (low-fidelity, interactive)
 
 ## Figma Prototype
 Open the file: https://www.figma.com/design/9rrvXihOUCGX6mZpWLp12Q
